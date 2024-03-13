@@ -1,23 +1,20 @@
 Portfolio Website
-This is a simple portfolio website created using HTML and basic CSS. The website showcases my projects, skills, and contact information, providing visitors with an overview of my work and expertise.
+This is a simple portfolio website consisting of a home page and a contact page, created using HTML and basic CSS. The website serves as a platform to showcase my projects, skills, and provide contact information for potential clients, collaborators, or employers.
 
 Features
-Projects: Displayed with brief descriptions and links to live demos or GitHub repositories.
-Skills: Highlighted with icons or descriptions to showcase areas of expertise.
-Contact Information: Easily accessible for potential clients, collaborators, or employers.
-Responsive Design: Ensures the website looks great and functions well on various devices and screen sizes.
+Home Page: Displays an overview of my projects and skills, allowing visitors to explore my work.
+Contact Page: Provides a convenient way for visitors to get in touch with me, including a contact form or direct contact information.
 Technologies Used
 HTML5
 CSS3
 Usage
-Clone the repository: git clone link.git
-Open index.html in your web browser to view the website locally.
+Clone the repository: git clone.git
+Open index.html in your web browser to view the home page, and navigate to contact.html to view the contact page.
 Customize the content in the HTML files to showcase your own projects, skills, and contact information.
 Feel free to contribute by submitting pull requests or reporting issues!
 
 
-
-You can adjust the content and structure of this README to fit your specific portfolio website and preferences.
+This description reflects the simplicity of your portfolio website and guides users on how to explore it and contribute if they wish. Adjustments can be made according to your specific website structure and preferences.
 
 
 
